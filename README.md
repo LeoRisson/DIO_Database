@@ -12,3 +12,6 @@ Criei uma tabela onde guarda os meios de pagamentos dos clientes onde o mesmo cl
 Criei uma tabela para controlar a entrega guardando as informaçoes pertinentes.
 
 ## Entregando os arquivos .sql de Criação, Inserção de Dados e Queries.
+
+# Entrega do Projeto de Oficina
+## entregando projeto Oficina.
