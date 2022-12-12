@@ -1,6 +1,6 @@
 # SQL e NOSQL na Engenharia De Dados.
 
-## O papel do banco de dados SQl e NoSQL na Engenharia de Dados
+## O papel do banco de dados SQL e NoSQL na Engenharia de Dados
 
 ## SQL
 
